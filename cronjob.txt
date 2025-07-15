@@ -1,0 +1,1 @@
+0 12 * * * /Users/marcuskehoe/Desktop/dev/apps/scraper/venv/bin/python3 /Users/marcuskehoe/Desktop/dev/apps/scraper/scraper.py >> /Users/marcuskehoe/Desktop/dev/apps/scraper/log.txt 2>&1

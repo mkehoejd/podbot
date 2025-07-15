@@ -1,0 +1,9 @@
+🔑 API Key Loaded: c85173d1...
+🔍 Searching for 'ornithologists' in 'Canada'
+Traceback (most recent call last):
+  File "/Users/marcuskehoe/Desktop/dev/apps/scraper/scraper.py", line 77, in <module>
+    main()
+  File "/Users/marcuskehoe/Desktop/dev/apps/scraper/scraper.py", line 68, in main
+    os.makedirs("leads", exist_ok=True)
+  File "<frozen os>", line 225, in makedirs
+OSError: [Errno 30] Read-only file system: 'leads'
